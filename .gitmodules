@@ -4,3 +4,6 @@
 [submodule "wooting-rgb-sdk"]
 	path = wooting-rgb-sdk
 	url = https://github.com/WootingKb/wooting-rgb-sdk.git
+[submodule "oscpkt"]
+	path = oscpkt
+	url = https://github.com/eddietree/oscpkt.git
