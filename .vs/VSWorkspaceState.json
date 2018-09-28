@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\wooting-analog-sdk"
+    "\\wooting-rgb-sdk\\hidapi"
   ],
-  "SelectedNode": "\\wooting-analog-sdk\\hidapi",
+  "SelectedNode": "\\.gitmodules",
   "PreviewInSolutionExplorer": false
 }
