@@ -5,15 +5,11 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WootOSC", "WootOSC.vcxproj", "{6E034FA5-1364-40FC-BA4B-0C0D9C37C837}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wooting-analog-sdk", "..\wooting-analog-sdk\windows\wooting-analog-sdk.vcxproj", "{9E295A49-A17F-4603-9134-897596DFF8AF}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wooting-rgb-sdk", "..\wooting-rgb-sdk\windows\wooting-rgb-sdk.vcxproj", "{6C6DB7E9-2FAC-4D27-A2B4-1BFA6FC7CF0A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D57B2E1-4D43-4401-BCCF-50C4342EA6F2}"
-	ProjectSection(SolutionItems) = preProject
-		..\oscpkt\src\oscpkt.hh = ..\oscpkt\src\oscpkt.hh
-		..\oscpkt\src\udp.hh = ..\oscpkt\src\udp.hh
-	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wooting-analog-sdk", "wooting-analog-sdk\windows\wooting-analog-sdk.vcxproj", "{9E295A49-A17F-4603-9134-897596DFF8AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wooting-rgb-sdk", "wooting-rgb-sdk\windows\wooting-rgb-sdk.vcxproj", "{6C6DB7E9-2FAC-4D27-A2B4-1BFA6FC7CF0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
